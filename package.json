@@ -1,6 +1,6 @@
 {
   "name": "albert_cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CLI for albert tool `albert_thing`",
   "bin": "bin.js",
   "main": "bin.js",
