@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const { search } = require('albert_thing');
 const yargs = require('yargs');
 
