@@ -1,0 +1,26 @@
+{
+  "name": "albert_cli",
+  "version": "1.0.0",
+  "description": "CLI for albert tool `albert_thing`",
+  "main": "bin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/max0ne/albert_cli.git"
+  },
+  "keywords": [
+    "NYU"
+  ],
+  "author": "Mingfei Huang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/max0ne/albert_cli/issues"
+  },
+  "homepage": "https://github.com/max0ne/albert_cli#readme",
+  "dependencies": {
+    "albert_thing": "0.0.1",
+    "yargs": "^11.0.0"
+  }
+}
